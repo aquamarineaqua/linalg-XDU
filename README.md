@@ -8,7 +8,9 @@ MATLAB能非常方便地实现线性代数的工程运用问题，但考虑到MA
 课程原作者为陈怀琛教授和杨威教授，向教授们致敬，也向陈老对于线性代数教育在工科领域的开拓创新的努力致敬。<br>
 <br><br>
 课程原地址：https://www.icourse163.org/course/XDU-1001775006<br>
-参考资料：①https://www.sympy.org/en/index.html 、②《实用大众线性代数(MATLAB版)》陈怀琛 著
+参考资料：①https://www.sympy.org/en/index.html 、②《实用大众线性代数(MATLAB版)》陈怀琛 著<br><br>
 
-预览：
+===================================================================<br><br>
+
+预览：<br>
 ![image](https://github.com/aquamarineaqua/linalg-XDU/blob/main/image1.png)
