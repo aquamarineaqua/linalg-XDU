@@ -9,3 +9,6 @@ MATLAB能非常方便地实现线性代数的工程运用问题，但考虑到MA
 <br><br>
 课程原地址：https://www.icourse163.org/course/XDU-1001775006<br>
 参考资料：①https://www.sympy.org/en/index.html 、②《实用大众线性代数(MATLAB版)》陈怀琛 著
+
+预览：
+![image](https://github.com/aquamarineaqua/linalg-XDU/blob/main/%E9%A2%84%E8%A7%881.png)
