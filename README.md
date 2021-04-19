@@ -19,4 +19,4 @@ MATLAB能非常方便地实现线性代数的工程运用问题，但考虑到MA
 ===================================================================<br><br>
 
 预览：<br>
-![image](https://github.com/aquamarineaqua/linalg-XDU/blob/main/image1.png)
+![image](https://github.com/aquamarineaqua/linalg-XDU/blob/main/image3.png)
